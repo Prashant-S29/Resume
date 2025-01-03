@@ -1,5 +1,5 @@
 # Resume
-My Resume (of course it's in markdown)
+My Resume (ofcourse it's in markdown)
 
 # Prashant Singh Hooda  
 **Tech Enthusiast, Full Stack Web Developer and Designer**  
