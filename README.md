@@ -39,6 +39,12 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects  
 
+### **Nagana Media Portfolio (Freelance project)**  | (ongoing)
+**February 03, 2025 – Present**  
+- Developing a minimalistic protfolio for Nagana Media - A SaaS firm.
+- The primary goal is to improve their online prsence, credibility and showcase thier works. 
+- **Tech Used:** T3 Stack
+
 ### **[BlogNSpot](https://santoshi-portfolio.vercel.app) – Portfolio for Santoshi Swain (Freelance project)**  | (ongoing)
 **October 02, 2024 – Present**  
 - Developing a customized portfolio for Santoshi Swain – A Fashion Model, Artist, and Writer.  
