@@ -75,10 +75,10 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 These are my side projects which are very fun to build
 
 ### **[Experimental Lab](https://experiments-by-prashant.vercel.app/)** 
-- This is like the dum yard of all my creative stuff, here I put my recreation (majorly inspired from Twitter).
+- This is like the dump yard of all my creative stuff, here I put my recreations (majorly inspired from Twitter).
   
 ### **[Soner](https://soner-idea-pitching.vercel.app)** 
-- I am this to pitch my web app idea at a tech fest at VIT, Andhra Pradesh. (sitll wokring on it)
+- I made this to pitch my web app idea at a tech fest at VIT, Andhra Pradesh. (sitll wokring on it)
   
 ---
 
