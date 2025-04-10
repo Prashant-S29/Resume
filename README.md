@@ -23,6 +23,11 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Experience  
 
+### **SinonTechs – Full Stack Web Developer**  
+**March 2025 - Present**  
+- Wokring as a full stack developer at SinonTechs - A Ahemdabad based IT consultancy.  
+- Interacting with foreign client, and providing them the best and tailored web solutions.  
+
 ### **Independent Freelancer – Full Stack Web Developer & Designer**  
 **December 2022 - Present**  
 - Working as an independent freelancer.  
@@ -39,7 +44,14 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects  
 
-### **Nagana Media Portfolio (Freelance project)**  | (ongoing)
+### **[Bytearoo](http://bytearoo.vercel.app) (Freelance project)**  | (ongoing)
+**April 05, 2025 – Present**  
+- Providing a full rebranding to a SaaS firm.
+- Smooth animation, mouse intercations and more
+- [Old Website](https://bytearoo.com/) | [New Website](https://bytearoo.vercel.app) (under dev)
+- **Tech Used:** NextJs, Framer Motion, GSAP and more
+
+### **[Nagana Media Portfolio](https://nagana-media.vercel.app) (Freelance project)**  | (ongoing)
 **February 03, 2025 – Present**  
 - Developing a minimalistic protfolio for Nagana Media - A SaaS firm.
 - The primary goal is to improve their online prsence, credibility and showcase thier works. 
