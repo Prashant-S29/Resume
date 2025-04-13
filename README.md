@@ -51,14 +51,14 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - [Old Website](https://bytearoo.com/) | [New Website](https://bytearoo.vercel.app) (under dev)
 - **Tech Used:** NextJs, Framer Motion, GSAP and more
 
-### **[Nagana Media Portfolio](https://nagana-media.vercel.app) (Freelance project)**  | (ongoing)
-**February 03, 2025 – Present**  
+### **[Nagana Media Portfolio](https://naganamedia.com/) (Freelance project)** 
+**February 03, 2025 – April 13, 2025**  
 - Developing a minimalistic protfolio for Nagana Media - A SaaS firm.
 - The primary goal is to improve their online prsence, credibility and showcase thier works. 
 - **Tech Used:** T3 Stack
 
-### **[BlogNSpot](https://santoshi-portfolio.vercel.app) – Portfolio for Santoshi Swain (Freelance project)**  | (ongoing)
-**October 02, 2024 – Present**  
+### **[BlogNSpot](https://santoshi-portfolio.vercel.app) – Portfolio for Santoshi Swain (Freelance project)**
+**October 02, 2024 – January 07, 2025**  
 - Developing a customized portfolio for Santoshi Swain – A Fashion Model, Artist, and Writer.  
 - Features award-winning animations and interactions with great UI and seamless UX.  
 - **Tech Used:** Next.js, Framer Motion, R3F, GSAP, Wix (CMS), TypeScript  
