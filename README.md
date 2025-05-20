@@ -40,7 +40,7 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 **March 2025 - Present**
 
-- Working as a full stack developer at SinonTechs, an Ahmedabad-based IT consultancy.
+- Working as a full stack developer at SinonTechs, a Ahmedabad-based IT consultancy.
 - Interacting with foreign clients and providing them with the best and most tailored web solutions.
 
 ### **Independent Freelancer – Full Stack Web Developer & Designer**
