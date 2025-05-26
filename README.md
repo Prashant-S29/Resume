@@ -63,6 +63,14 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects
 
+### **[SNT Club App](https://github.com/Prashant-S29/sntclub_app) (Personal Project)** | (ongoing)
+
+**May 15, 2025 – Present**
+
+- Developing a full stack club management app for SNT Club (a tech club at SKIT Collge, Jaipur).
+- This project is part of me learning React Native.
+  
+
 ### **[Bytearoo](http://bytearoo.vercel.app) (Freelance project)** | (ongoing)
 
 **April 05, 2025 – Present**
