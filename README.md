@@ -63,6 +63,19 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects
 
+### **[NEET Peak](https://neetpeak.vercel.app/) (Freelance Project)** | (ongoing)
+
+**May 21, 2025 – Present**
+
+* Developing an online portfolio for a medical exam preparation website – NEET Peak.
+* The project is divided into 3 parts:
+
+  * **Frontend** – The user-facing website
+  * **CMS** – A custom content management system built entirely in-house for managing website content
+  * **Admin Panel** – Campaign management, custom campaign URLs, web analytics, and more
+* **Tech Used** – PostHog (for comprehensive analytics and campaign tracking), T3 Stack, Better Auth, Supabase PostgreSQL, ShadCN, and more.
+
+
 ### **[SNT Club App](https://github.com/Prashant-S29/sntclub_app) (Personal Project)** | (ongoing)
 
 **May 15, 2025 – Present**
@@ -73,7 +86,7 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ### **[Bytearoo](http://bytearoo.vercel.app) (Freelance project)** | (ongoing)
 
-**April 05, 2025 – Present**
+**April 05, 2025 – May 15, 2025**
 
 - Providing a full rebranding to a SaaS firm.
 - Smooth animation, mouse interactions and more
