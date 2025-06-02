@@ -84,7 +84,7 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - This project is part of me learning React Native.
   
 
-### **[Bytearoo](http://bytearoo.vercel.app) (Freelance project)** | (ongoing)
+### **[Bytearoo](http://bytearoo.vercel.app) (Freelance project)**
 
 **April 05, 2025 – May 15, 2025**
 
