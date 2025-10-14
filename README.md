@@ -23,8 +23,9 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - **My go-to and recommended stack:**
   - Full Stack Type Safety - trpc
   - ORM - Prisma/Drizzle
-  - Backend - NextJS/NestJS
-  - Database - Supabase PostgreSQL
+  - Frontend - React/NextJs
+  - Backend - NodeJs/NestJS
+  - Database - Supabase/Local PostgreSQL
   - Runtime - Node/Bun
   - File Storage - Uploadthings
   - UI and components - ShadCN
@@ -35,6 +36,15 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 ---
 
 ## Experience
+
+### **CodeDecoders – Software Engineer**
+
+**July 2025 - September 2025**
+
+ - Working as a Full Stack Developer for a Fintech Startup.
+ - Working alongside the CTO office to develop the Web3 based Global Payment System.
+ - Gained handson experience on FIAT to crypto conversions, transactions and more. 
+
 
 ### **SinonTechs – Full Stack Web Developer**
 
@@ -63,22 +73,14 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects
 
-### **[NEET Peak](https://neetpeak.vercel.app/) (Freelance Project)** | (ongoing)
+### **[Wosh](https://www.woshvalut.xyz)** (Like [Doppler](https://www.doppler.com) but with less feautres) | (ongoing)
 
-**May 21, 2025 – Present**
-
-* Developing an online portfolio for a medical exam preparation website – NEET Peak.
-* The project is divided into 3 parts:
-
-  * **Frontend** – The user-facing website
-  * **CMS** – A custom content management system built entirely in-house for managing website content
-  * **Admin Panel** – Campaign management, custom campaign URLs, web analytics, and more
-* **Tech Used** – PostHog (for comprehensive analytics and campaign tracking), T3 Stack, Better Auth, Supabase PostgreSQL, ShadCN, and more.
+-  Building a local first, pure zero knowledge architecture based secret manager to simplify secret management and sharing. 
+- Build on top of web based cryptography and 7 layers of hierarchical encryption.
+- Aimed to be a simpler and free alternative of Dropper for medium and large developer teams.
 
 
-### **[SNT Club App](https://github.com/Prashant-S29/sntclub_app) (Personal Project)** | (ongoing)
-
-**May 15, 2025 – Present**
+### **[SNT Club App](https://github.com/Prashant-S29/sntclub_app) (Personal Project)**
 
 - Developing a full stack club management app for SNT Club (a tech club at SKIT Collge, Jaipur).
 - This project is part of me learning React Native.
