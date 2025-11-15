@@ -4,13 +4,15 @@
 
 **Tech Enthusiast, Full Stack Web Developer and Designer**
 
-**Portfolio:** [PrashantSingh](https://prashantsingh.me/) | **LinkedIn:** [prashantsingh29](https://www.linkedin.com/in/prashantsingh29) | **Mail:** prashant.s2922@gmail.com
+**Portfolio:** [PrashantSingh](https://thisismyuniquewebsite.vercel.app) | **X:** [prashant_gigs](https://x.com/prashant_gigs) | **Mail:** prashant.s2922@gmail.com
 
 ---
 
 ## Summary
 
 Freelance Web Developer and Designer, Full Stack Developer with a passion for creating inspirational web designs. Experienced in working in an Agile environment to create scalable web solutions.
+
+<img width="1547" height="976" alt="techstack" src="https://github.com/user-attachments/assets/ec328ccf-ff4c-4d12-8d6f-1768ffc744bd" />
 
 ---
 
@@ -73,9 +75,14 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects
 
+### **[BetterSox](https://bettersox.vercel.app)** - Search engine to find opensource projects | (under-dev)
+
+- BetterSox helps you find best open source projects from github in natural languages.
+- Its reduces the friction points of new open source contributors by finding the best matching repositories.
+
 ### **[Wosh](https://www.woshvalut.xyz)** (Like [Doppler](https://www.doppler.com) but with less feautres) | (ongoing)
 
--  Building a local first, pure zero knowledge architecture based secret manager to simplify secret management and sharing. 
+- Building a local first, pure zero knowledge architecture based secret manager to simplify secret management and sharing. 
 - Build on top of web based cryptography and 7 layers of hierarchical encryption.
 - Aimed to be a simpler and free alternative of Dropper for medium and large developer teams.
 
