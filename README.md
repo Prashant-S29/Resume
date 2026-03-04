@@ -76,6 +76,14 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 ---
 
 ## Projects
+
+<img width="1587" height="918" alt="image" src="https://github.com/user-attachments/assets/a21b71c8-5940-4a8b-8055-c7ee874e15df" />
+
+**[ts-orm-bench](https://ts-orm-bench.vercel.app)** - (under-dev)
+- A tool to benchmark various typescript ORMs.
+
+---
+
 <img width="1188" height="705" alt="image" src="https://github.com/user-attachments/assets/97ddf198-0bd8-4fac-bf2c-48f39720f164" />
 
 **[GenSEO](https://gen-seo-omega.vercel.app)** - AI Visibility Tracker | (under-dev)
