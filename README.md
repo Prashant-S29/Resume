@@ -74,18 +74,33 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 ---
 
 ## Projects
+<img width="1188" height="705" alt="image" src="https://github.com/user-attachments/assets/97ddf198-0bd8-4fac-bf2c-48f39720f164" />
+
+**[GenSEO](https://gen-seo-omega.vercel.app)** - AI Visibility Tracker | (under-dev)
+
+- “Is your brand visible on ChatGPT?”. GenSEO helps you analyze your brand visibility across multiple AI providers and tools.
+- Comes with “API only”, “Web Scraping Only” and "both" analytics features.
+
+---
+
+<img width="1188" height="705" alt="image" src="https://github.com/user-attachments/assets/f416a872-61aa-42ba-9ee6-5f4c8682784d" />
 
 ### **[BetterSox](https://bettersox.vercel.app)** - Search engine to find opensource projects | (under-dev)
 
 - BetterSox helps you find best open source projects from github in natural languages.
 - Its reduces the friction points of new open source contributors by finding the best matching repositories.
 
-### **[Wosh](https://www.woshvalut.xyz)** (Like [Doppler](https://www.doppler.com) but with less feautres) | (ongoing)
+---
+
+<img width="1188" height="705" alt="image" src="https://github.com/user-attachments/assets/7f4164ba-ea80-4d36-8b83-9e201afe1211" />
+
+### **[Wosh](https://www.woshvalut.xyz)** (Like [Doppler](https://www.doppler.com) but with less feautres) | (not maintained)
 
 - Building a local first, pure zero knowledge architecture based secret manager to simplify secret management and sharing. 
 - Build on top of web based cryptography and 7 layers of hierarchical encryption.
 - Aimed to be a simpler and free alternative of Dropper for medium and large developer teams.
 
+---
 
 ### **[SNT Club App](https://github.com/Prashant-S29/sntclub_app) (Personal Project)**
 
