@@ -101,12 +101,7 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - Aimed to be a simpler and free alternative of Dropper for medium and large developer teams.
 
 ---
-
-### **[SNT Club App](https://github.com/Prashant-S29/sntclub_app) (Personal Project)**
-
-- Developing a full stack club management app for SNT Club (a tech club at SKIT Collge, Jaipur).
-- This project is part of me learning React Native.
-  
+<img width="1402" height="918" alt="image" src="https://github.com/user-attachments/assets/e7a1f573-2a21-4c70-b754-4a775464b611" />
 
 ### **[Bytearoo](http://bytearoo.vercel.app) (Freelance project)**
 
@@ -117,13 +112,9 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - [Old Website](https://bytearoo.com/) | [New Website](https://bytearoo.vercel.app) (under dev)
 - **Tech Used:** NextJs, Framer Motion, GSAP and more
 
-### **[Nagana Media Portfolio](https://naganamedia.com/) (Freelance project)**
+---
 
-**February 03, 2025 – April 13, 2025**
-
-- Developing a minimalistic portfolio for Nagana Media - A SaaS firm.
-- The primary goal is to improve their online presence, credibility, and showcase their works.
-- **Tech Used:** T3 Stack
+<img width="1356" height="898" alt="image" src="https://github.com/user-attachments/assets/b1b5f10b-b743-4272-bf72-630749c28e3e" />
 
 ### **[BlogNSpot](https://santoshi-portfolio.vercel.app) – Portfolio for Santoshi Swain (Freelance project)**
 
@@ -133,6 +124,11 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - Features award-winning animations and interactions with great UI and seamless UX.
 - **Tech Used:** Next.js, Framer Motion, R3F, GSAP, Wix (CMS), TypeScript
 
+---
+
+<img width="1356" height="898" alt="image" src="https://github.com/user-attachments/assets/7a41547d-d75d-44af-a7a4-77ed8ced054b" />
+
+
 ### **[Proelevate](https://www.proelevate.in) (Online Learning Platform | Freelance project)**
 
 **September 28, 2024 – November 12, 2024**
@@ -141,21 +137,6 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 - Majorly worked on Frontend, API integration, and documentation.
 - Developed a mentorship feature allowing mentors to book one-on-one sessions with students.
 - **Tech Used:** Next.js, React, RHF, Zod, Zustand, React Query, ShadCN UI
-
-### **[Medenure](https://medenure.vercel.app/) (Ecommerce Book Store | Freelance project)**
-
-**June 07, 2024 – August 18, 2024**
-
-- Built a full-stack end-to-end eCommerce application.
-- Features include user management, inventory management, authentication, order tracking, cart, payment, and more.
-- **Tech Used:** Cloudinary, Stripe, Wix Headless Services, AWS SES, PostgreSQL, NextAuth
-
-### **[Blog Website](https://www.code-components.in/)**
-
-**January 23, 2024 – February 02, 2023**
-
-- Developed a personal blog website to showcase latest developments and designs.
-- **Tech Used:** MERN, Next.js, Cloudinary
 
 ---
 
