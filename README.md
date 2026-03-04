@@ -6,6 +6,8 @@
 
 **Portfolio:** [PrashantSingh](https://thisismyuniquewebsite.vercel.app) | **X:** [prashant_gigs](https://x.com/prashant_gigs) | **Mail:** prashant.s2922@gmail.com
 
+**Who I am as a Person:** [About.md](https://gist.github.com/Prashant-S29/bfec6b22cd1d5cc05b4a8f12366f9ec8)
+
 ---
 
 ## Summary
