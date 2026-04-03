@@ -77,7 +77,7 @@ Freelance Web Developer and Designer, Full Stack Developer with a passion for cr
 
 ## Projects
 
-<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/5215500c-2812-4f60-aa0c-494063df03cf" />
+<img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/3dd30084-b1bf-4516-875b-3ec9ecd5240f" />
 
 **[SimpleCMS](https://simple-cms-silk.vercel.app)** - (under-dev) A simple CMS builder
 
