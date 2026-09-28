@@ -14,7 +14,8 @@
 
 Freelance Web Developer and Designer, Full Stack Developer with a passion for creating inspirational web designs. Experienced in working in an Agile environment to create scalable web solutions.
 
-<img width="1547" height="976" alt="techstack" src="https://github.com/user-attachments/assets/ec328ccf-ff4c-4d12-8d6f-1768ffc744bd" />
+<img width="1282" height="770" alt="image" src="https://github.com/user-attachments/assets/a0d04df5-67a0-456e-959c-f49980dddc20" />
+
 
 ---
 
